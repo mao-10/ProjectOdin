@@ -2,12 +2,35 @@ img.abc {
     height: auto;
     width: 100px;
     display: flex;
+    margin: 10px;
+    padding: 10px;
 }
 img.yarn {
     height: auto;
-    width: 350px;
+    width: 250px;
     display: flex;
+    margin: 15px;
+    padding: 10px;
+    
 }
 .header {
     display: flex;
+}
+.header-content {
+    display: flex;
+}
+.header-links {
+    display: flex;
+
+}
+ul {
+    list-style-type: none;
+}
+.header-background {
+    background-color: #1f2937;
+
+}
+.top-body {
+    display: flex;
+    
 }
