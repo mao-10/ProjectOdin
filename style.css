@@ -1,0 +1,13 @@
+img.abc {
+    height: auto;
+    width: 100px;
+    display: flex;
+}
+img.yarn {
+    height: auto;
+    width: 350px;
+    display: flex;
+}
+.header {
+    display: flex;
+}
